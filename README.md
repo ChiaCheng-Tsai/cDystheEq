@@ -1,4 +1,4 @@
-# DystheEq++:  Pseudo-spectral solver for Dysthe-Lo-Mei equation (c++ version)
+# cDystheEq:  Pseudo-spectral solver for Dysthe-Lo-Mei equation (c++ version)
 
 This c++ code is modified from the [DystheEq](https://github.com/dutykh/DystheEq) of Denys Dutykh by using [matlab2cpp](https://github.com/jonathf/matlab2cpp)
 
